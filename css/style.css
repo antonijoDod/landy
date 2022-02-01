@@ -1,0 +1,46 @@
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.hero {
+    background-image: url('../images/background.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center bottom;
+}
+
+.space-mt-8{
+    margin: 2rem 0;
+}
+
+.section-space{
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
+.stats {
+    background-color: #D5FAFC;
+}
+
+.section-projects {
+    background-color: #1DB5BE;
+}
+
+.align-text {
+    text-align: center
+}
+
+/* ************************* 
+        Large	lg	≥992px
+    ************************ */
+@media (min-width: 992px) {
+    .hero {
+   height: 100vh;
+    }
+    .space-mt-8 {
+        margin: 0
+    }
+    .align-text {
+        text-align: left
+    }
+}
