@@ -29,7 +29,7 @@ First time using bootstrap v5, but it's super easy and simple.
 
 ### Links
 
-- Live Site URL: [https://nft-card-antonijo.netlify.app](https://landy-antonijo.netlify.app/)
+- Live Site URL: [https://landy-antonijo.netlify.app/](https://landy-antonijo.netlify.app/)
 
 ## My process
 
